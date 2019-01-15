@@ -6,6 +6,6 @@ span {
 .blue {
     height: 50px;
     width: 50px;
-    color: blue;
+    background-color: blue;
     border: 3px solid yellow;
 }
